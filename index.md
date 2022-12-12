@@ -4,7 +4,7 @@
 
 ### Analytics Projects
 
-#### [Internal Blog Post Project](/Massachusetts Education System)
+#### [The Health of Massachusetts Education System](/Massachusetts Education System)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
