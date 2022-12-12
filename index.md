@@ -1,11 +1,11 @@
-## My Data Analytics Portfolio
+# My Data Analytics Portfolio
 
 ---
 
 ### Analytics Projects
 
 #### [Education Analysis](/Massachusetts_Education)
-<img src="Tableau Dashboard.png?raw=true"/>]
+<img src="images/Tableau Dashboard.png?raw=true"/>](/Massachusetts_Education)
 
 #### [The Health of Massachusetts Education System](/Massachusetts_Education)
 
@@ -16,7 +16,7 @@ In this article, I dove deep into the the health of the school system in the sta
 ---
 
 #### [Marketing Analysis](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
-[<img src="DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
+[<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
 
 #### [What popular beverage are consumers spending the most on?](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
 
