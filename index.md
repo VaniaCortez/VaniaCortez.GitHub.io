@@ -2,13 +2,13 @@
 
 ---
 
-### Analytics Projects
+## Analytics Projects
 
-#### [The Health of Massachusetts Education System](/Massachusetts Education System)
+### [The Health of Massachusetts Education System](/Massachusetts_Education)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
 ---
+
 #### [Marketing Analysis](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
 [<img src="DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
 
