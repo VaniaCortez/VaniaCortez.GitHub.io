@@ -2,7 +2,7 @@
 
 ---
 
-### General Analytics Projects
+### Analytics Projects
 
 #### [Internal Blog Post Project](/sample_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
