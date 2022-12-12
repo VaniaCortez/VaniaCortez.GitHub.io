@@ -23,7 +23,7 @@ The dataset was provided by Avery Smith, my mentor and instructor of Data Analyt
 Based on the data presented, there are several schools that are struggling more than others.  Springfield Public Day High school has the lowest graduation percent with less than 9%.  
 We can also see that out of the bottom 10 schools with the lowest graduation rates, 2 schools are charter schools and 8 are public schools. 
 
-<img src="images/%Graduatedbyschool.png?raw=true"/>
+<img src="images/Graduatedbyschool.png?raw=true"/>
 
 *What cities are earning the most salaries?*
 
@@ -39,13 +39,13 @@ This includes 34 schools that had over 90% attending college. One school being T
 
 We can visually see on the map that there are several areas shaded in light orange which indicates these areas have roughly 30% of students attending college. 
 
-<img src="images/%AttendingCollege.png?raw=true"/>
+<img src="images/AttendingCollege.png?raw=true"/>
 
 *What is the correlation between students with disabilities and graduation rate?*
 
 There are approximately 300 students with disabilities of which have an 80% graduation rate and low economic disadvantage. On the other hand, there are several outliers where less than 50 students with disabilities have a 20-40% graduation rate but have a high economic disadvantage. 
 
-<img src="%GraduatedvsDisabilities.png?raw=true"/>
+<img src="GraduatedvsDisabilities.png?raw=true"/>
 
 #### Conclusion
 
