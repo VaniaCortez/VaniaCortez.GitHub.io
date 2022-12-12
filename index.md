@@ -1,11 +1,17 @@
-# My Data Analytics Portfolio
+## My Data Analytics Portfolio
 
 ---
 
-## Analytics Projects
+### Analytics Projects
 
-### [The Health of Massachusetts Education System](/Massachusetts_Education)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### [Education Analysis](/Massachusetts_Education)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>](/Massachusetts_Education)
+
+#### [The Health of Massachusetts Education System](/Massachusetts_Education)
+
+What comes to mind when you think of Massachusetts? You think of the Boston Celtics and the New England Patriots, right? Freezing weather, lots of historical buildings like Harvard, MIT, and Princeton to top the list, it’s no wonder why this state is so well known for its education system. 
+ 
+In this article, I dove deep into the the health of the school system in the state of Massachusetts.
 
 ---
 
@@ -28,7 +34,7 @@ Door Dash is a technology company that connects people with one of their best ne
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+
 
 
 
