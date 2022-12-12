@@ -14,6 +14,7 @@ The topics that I will be discussing are:
 ## The Data
 
 The dataset was provided by Avery Smith, my mentor and instructor of Data Analytics Bootcamp.
+
 (Disclaimer: this data set is for educational purposes only)
 
 ## The Analysis
