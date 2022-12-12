@@ -16,7 +16,7 @@ The topics that I will be discussing are:
 The dataset was provided by Avery Smith, my mentor and instructor of Data Analytics Bootcamp.
 (Disclaimer: this data set is for educational purposes only)
 
-### The Analysis
+## The Analysis
 
 *What schools are struggling the most when it comes to graduation?*
 
@@ -47,7 +47,7 @@ There are approximately 300 students with disabilities of which have an 80% grad
 
 <img src="GraduatedvsDisabilities.png?raw=true"/>
 
-#### Conclusion
+## Conclusion
 
 Based on the overall analysis, we can conclude the following:
 
@@ -60,6 +60,8 @@ Massachusetts is known for having a strong public education system, especially w
 Overall, we see that the state puts a lot of efforts to provide an excellent education system for all students.
 
 If you enjoyed reading this blog, connect with me for more content!
+
+### Tableau Dashboard
 
 <img src="images/Tableau Dashboard.png?raw=true"/>
 
