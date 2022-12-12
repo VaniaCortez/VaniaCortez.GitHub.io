@@ -14,9 +14,11 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [External Link Project](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]((https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
+As someone who is a big foodie and loves trying new restaurants, I have been using Door Dash on a frequent basis.
+
+Door Dash is a technology company that connects people with one of their best neighborhood restaurants, grocery stores, and much more. I chose this project to get a better understanding of the company and its business in the food delivery industry.
 
 ---
 
