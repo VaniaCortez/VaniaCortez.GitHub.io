@@ -5,7 +5,7 @@
 ### Analytics Projects
 
 #### [Education Analysis](/Massachusetts_Education)
-<img src="images/Tableau Dashboard.png?raw=true"/>](/Massachusetts_Education)
+<img src="images/Tableau Dashboard.png?raw=true"/>]
 
 #### [The Health of Massachusetts Education System](/Massachusetts_Education)
 
