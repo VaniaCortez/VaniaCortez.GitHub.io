@@ -6,10 +6,10 @@ In this article, I dove deep into the the health of the school system in the sta
 
 The topics that I will be discussing are:
 
-•	What schools are struggling the most when it comes to graduation
-•	What cities are earning the most salaries
-•	What % of students are attending college
-•	What is the correlation between students with disabilites and graduation rate
+1.	What schools are struggling the most when it comes to graduation
+2.	What cities are earning the most salaries
+3.	What % of students are attending college
+4.	What is the correlation between students with disabilites and graduation rate
 
 ## The Data
 
@@ -51,10 +51,10 @@ There are roughly 300 students with disabilities of which have an 80% graduation
 
 Based on the overall analysis, we can conclude the following:
 
-•	Lowest high school graduation rate is 8.7%. 
-•	Dorchester city has the highest earning salary ~$10B
-•	A high percentage of students are attending college
-•	Students with disabilities with a low economic disadvantage have a high graduation rate
+1.	Lowest high school graduation rate is 8.7%. 
+2.	Dorchester city has the highest earning salary ~$10B
+3. A high percentage of students are attending college
+4.	Students with disabilities with a low economic disadvantage have a high graduation rate
 
 Massachusetts is known for having a strong public education system, especially when trying to prepare students for college. It is also recognized as being diverse with many options for college preparation and in general higher education programs.
 Overall, we see that the state puts a lot of efforts to provide an excellent education system for all students.
