@@ -11,7 +11,12 @@ The topics that I will be discussing are:
 •	What % of students are attending college
 •	What is the correlation between students with disabilites and graduation rate
 
-## The Analysis
+## The Data
+
+The dataset was provided by Avery Smith, my mentor and instructor of Data Analytics Bootcamp.
+(Disclaimer: this data set is for educational purposes only)
+
+### The Analysis
 
 *What schools are struggling the most when it comes to graduation?*
 
@@ -42,7 +47,7 @@ There are roughly 300 students with disabilities of which have an 80% graduation
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Conclusion
+#### Conclusion
 
 Based on the overall analysis, we can conclude the following:
 
