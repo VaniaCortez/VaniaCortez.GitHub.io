@@ -45,7 +45,7 @@ We can visually see on the map that there are several areas shaded in light oran
 
 There are approximately 300 students with disabilities of which have an 80% graduation rate and low economic disadvantage. On the other hand, there are several outliers where less than 50 students with disabilities have a 20-40% graduation rate but have a high economic disadvantage. 
 
-<img src="GraduatedvsDisabilities.png?raw=true"/>
+<img src="images/GraduatedvsDisabilities.png?raw=true"/>
 
 ## Conclusion
 
