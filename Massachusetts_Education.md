@@ -61,7 +61,7 @@ Overall, we see that the state puts a lot of efforts to provide an excellent edu
 
 If you enjoyed reading this blog, connect with me for more content!
 
-### Tableau Dashboard
+#### Tableau Dashboard
 
 <img src="images/Tableau Dashboard.png?raw=true"/>
 
