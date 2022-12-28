@@ -11,8 +11,6 @@ The International Development Association (IDA) is a part of the World Bank Grou
 
 They focus on boosting economic growth by building schools, hospitals, creating better jobs, and more.  
  
-For this article, I analyzed the credits/grants statements of IDA to answer the following questions. 
-
 ---
 
 #### [Education Analysis](/Massachusetts_Education)
