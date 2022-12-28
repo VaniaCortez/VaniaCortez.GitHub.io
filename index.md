@@ -1,8 +1,19 @@
-
+### Analytics Projects
 
 ---
 
-### Analytics Projects
+#### [Financial Analysis]
+[<img src="images/World Bank.png?raw=true"/>]
+
+#### [World Bank - IDA Data Analysis]
+
+The International Development Association (IDA) is a part of the World Bank Group that provides interest-free loans and grants to the poorest countries in the world. IDA loans can be used to finance a wide range of activities, including infrastructure projects, social services, and economic reforms.
+
+They focus on boosting economic growth by building schools, hospitals, creating better jobs, and more.  
+ 
+For this article, I analyzed the credits/grants statements of IDA to answer the following questions. 
+
+---
 
 #### [Education Analysis](/Massachusetts_Education)
 [<img src="images/MA_Cover.png?raw=true"/>](/Massachusetts_Education)
