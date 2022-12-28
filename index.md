@@ -13,7 +13,7 @@ They focus on boosting economic growth by building schools, hospitals, creating 
  
 ---
 
-#### [Education Analysis](/Massachusetts_Education)
+#### [Education Analysis](/Massachusetts_Education) 
 [<img src="images/MA_Cover.png?raw=true"/>](/Massachusetts_Education)
 
 #### [The Health of Massachusetts Education System](/Massachusetts_Education)
