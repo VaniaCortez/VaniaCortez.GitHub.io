@@ -14,7 +14,6 @@ For this article, I analyzed the credits/grants statements of IDA to answer the 
 
 4)	What are the top 10 projects with the most loan transactions that are currently being repaid?
 
-
 ## The Data
 
 The data was obtained through this link [World Bank - IDA Statements](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)
