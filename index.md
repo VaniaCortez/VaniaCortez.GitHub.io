@@ -1,5 +1,7 @@
 # My Data Analytics Portfolio
 
+[<img src="images/Data Analytics Portfolio.png?raw=true"/>]
+
 ---
 
 ### Analytics Projects
