@@ -2,10 +2,10 @@
 
 ---
 
-#### [Financial Analysis](WorldBankIDA)
-[<img src="images/World Bank.png?raw=true"/>](WorldBankIDA)
+#### [Financial Analysis](/WorldBankIDA)
+[<img src="images/World Bank.png?raw=true"/>](/WorldBankIDA)
 
-#### [World Bank - IDA Data Analysis](WorldBankIDA)
+#### [World Bank - IDA Data Analysis](/WorldBankIDA)
 
 The International Development Association (IDA) is a part of the World Bank Group that provides interest-free loans and grants to the poorest countries in the world. IDA loans can be used to finance a wide range of activities, including infrastructure projects, social services, and economic reforms.
 
