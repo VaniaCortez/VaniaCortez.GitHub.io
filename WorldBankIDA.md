@@ -69,7 +69,6 @@ Overall, the goal of IDA is to help the poorest countries in the world build a b
 
 By providing financing and technical assistance to developing countries, IDA has played a crucial role in supporting their efforts to reduce poverty and promote sustainable development.
 
-
 If you enjoyed reading this blog, connect with me on [Linkedin](https://www.linkedin.com/in/vaniacortez/) 
 
 
