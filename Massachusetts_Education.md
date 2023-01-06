@@ -62,7 +62,7 @@ Below is the link to the Tableau Dashboard I created for this analysis.
 
 #### [Tableau Dashboard](https://public.tableau.com/app/profile/vania.cortez/viz/MassachusettsProjectDAA/Dashboard1)
 
-<img src="images/Tableau Dashboard.png?raw=true"/>
+[<img src="images/Tableau Dashboard.png?raw=true"/>](https://public.tableau.com/app/profile/vania.cortez/viz/MassachusettsProjectDAA/Dashboard1) 
 
 If you enjoyed reading this blog, connect with me on [Linkedin](https://www.linkedin.com/in/vaniacortez/) 
 
