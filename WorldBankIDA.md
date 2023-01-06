@@ -57,7 +57,7 @@ The amount of financing that a country receives from IDA may change over time as
 
 *What are the top 10 projects with the most loan transactions that are currently being repaid?*
  
-The table below lists the top 10 projects (by number of transactions) currently being repaid. The top five countries have the same number of transactions at 416 transactions in the countries of Kenya, Bangladesh, India, and Sri Lanka
+The table below lists the top 10 projects (by number of transactions) currently being repaid. The top five countries have the same number of transactions at 416 transactions in the countries of Kenya, Bangladesh, India, and Sri Lanka.
 
 <img src="images/IDA 4-1.png?raw=true"/>
 
