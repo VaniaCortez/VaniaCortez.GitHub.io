@@ -64,7 +64,10 @@ Below is the link to the Tableau Dashboard I created for this analysis.
 
 <img src="images/Tableau Dashboard.png?raw=true"/>
 
-If you enjoyed reading this blog, connect with me on Linkedin!
+If you enjoyed reading this blog, connect with me on [Linkedin](https://www.linkedin.com/in/vaniacortez/) 
+
+
+
 
 
 
