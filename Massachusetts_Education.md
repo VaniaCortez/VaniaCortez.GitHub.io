@@ -54,7 +54,7 @@ On the other hand, students with disabilities who have a high economic disadvant
 Based on the overall analysis, we can conclude the following:
 
 1.	Lowest high school graduation rate is 8.7%. 
-2.	Dorchester city has the highest earning salary ~$10B.
+2.	Dorchester, Boston has the highest earning salary ~$10B.
 3. A high percentage of students are attending college.
 4.	Students with disabilities with a low economic disadvantage have a high graduation rate.
 
