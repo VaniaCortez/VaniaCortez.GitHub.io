@@ -28,7 +28,7 @@ We can also see that out of the bottom 10 schools with the lowest graduation rat
 
 *What cities are earning the most salaries?*
 
-A chart to visualize the top cities in terms of earnings is a great way to see where the most money is being made in Massachusetts. The top city earning the most salary is Dorchester at over $10B accounting for 27 total schools. Springfield coming in second with over $7B. 
+A chart to visualize the top cities in terms of earnings is a great way to see where the most money is being made in Massachusetts. The top city earning the most salary is Dorchester, Boston with over $10B accounting for 27 total schools. Springfield coming in second with over $7B. 
 The lowest earning school is located in Cuttyhunk with just roughly $55,000. 
 
 <img src="images/Totalschoolsalaries.png?raw=true"/>
@@ -44,7 +44,8 @@ We can visually see on the map that there are several areas shaded in light oran
 
 *What is the correlation between students with disabilities and graduation rate?*
 
-There are approximately 300 students with disabilities of which have an 80% graduation rate and low economic disadvantage. On the other hand, there are several outliers where less than 50 students with disabilities have a 20-40% graduation rate but have a high economic disadvantage. 
+Based on the scatter plot below, we can see that students with disabilities who have a low economic disadvantage have a high graduation rate. 
+On the other hand, students with disabilities who have a high economic disadvantage fall below the 50% graduation rate.  
 
 <img src="images/GraduatedvsDisabilities.png?raw=true"/>
 
