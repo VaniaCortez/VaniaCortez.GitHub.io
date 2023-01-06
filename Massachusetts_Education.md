@@ -1,6 +1,6 @@
 # The Health of Massachusetts Education System
 
-What comes to mind when you think of Massachusetts? You think of the Boston Celtics and the New England Patriots, right? Freezing weather, lots of historical buildings like Harvard, MIT, and Princeton to top the list, it’s no wonder why this state is so well known for its education system. 
+What comes to mind when you think of Massachusetts? You think of the Boston Celtics and the New England Patriots, right? Freezing cold weather, lots of historical buildings top universities such as Harvard and MIT, it’s no wonder why this state is so well known for its education system.
  
 In this article, I dove deep into the the health of the school system in the state of Massachusetts.
 
