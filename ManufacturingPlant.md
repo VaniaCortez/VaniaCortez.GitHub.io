@@ -10,6 +10,7 @@ Just like this. And you can even add internal coding blocks
 
 https://embed.deepnote.com/c69359fd-4748-4727-b77f-cad91dbd8ef7/8fc2d67edf8a41ac9ed620ece87a38c7/f813fdf43faa494bb0ffb17fa2179935?height=775
 
+<iframe title="Embedded cell output" src="https://embed.deepnote.com/c69359fd-4748-4727-b77f-cad91dbd8ef7/8fc2d67edf8a41ac9ed620ece87a38c7/f813fdf43faa494bb0ffb17fa2179935?height=775" height="775" width="500"/>
 
 ### 2. You can add any images you'd like. 
 
