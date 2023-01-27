@@ -30,10 +30,84 @@ converting the commas to decimal
 
 <img src="images/df1.png?raw=true"/>
 
-Show the first 5 rows of the data and all the columns
+Show the first 5 rows of the data and all columns
 
 <img src="images/df2.png?raw=true"/>
 
 ### Basic Analysis of Dataset
+
+The dataset has 737,453 rows and 24 columns.
+
+<img src="images/df3.png?raw=true"/>
+
+<img src="images/df4.png?raw=true"/>
+
+We can see that the date column is being read as a string
+
+<img src="images/df5.png?raw=true"/>
+
+Using Pandas function called *to_datetime()*, to convert the date to datetime
+
+<img src="images/df6.png?raw=true"/>
+
+Filter the rows and create a new data frame called df_sept to only show 9/1/2017
+
+<img src="images/df7.png?raw=true"/>
+
+<img src="images/df8.png?raw=true"/>
+
+Heatmap to illustrate correlation between each column
+
+<img src="images/df9.png?raw=true"/>
+
+<img src="images/df10.png?raw=true"/>
+
+Create a variable that is a list of all the important columns we want to focus on
+
+<img src="images/df11.png?raw=true"/>
+
+<img src="images/df12.png?raw=true"/>
+
+Focusing on the correlation between important columns only
+
+<img src="images/df13.png?raw=true"/>
+
+Taking a closer look at the % iron concentrate by the hour to see if there are any trends
+
+<img src="images/df14.png?raw=true"/>
+
+Create line charts for all important columns 
+
+<img src="images/df15.png?raw=true"/>
+
+<img src="images/df16.png?raw=true"/>
+
+<img src="images/df17.png?raw=true"/>
+
+<img src="images/df18.png?raw=true"/>
+
+<img src="images/df19.png?raw=true"/>
+
+<img src="images/df20.png?raw=true"/>
+
+Iron Concentrate increases between 4 AM – 6 AM and 7 PM – 9 PM. 
+Silica Concentrate decreases between 12 AM – 6 AM and 8 PM – 10 PM. 
+
+It appears that as the **concentration of Iron increases, the concentration of Silica decreases**. 
+
+We can also note that Ore Pulp Flow and Amina Flow both had peaks during the early morning hours when the concentration of silica was at its lowest. This suggests that there may be a relationship between silica concentrate, Ore Pulp Flow and Amina Flow, whereas **Silica decreases, Ore pulp flow and Amina flow increase**. 
+
+As Amina is used as a reagent to separate the gangue mineral such as silica from iron ore, it is likely that the concentration of Amina and the concentration of silica are inversely related. The increased usage of Amina would lead to decreased concentration of silica in the ore pulp and vice versa. 
+
+This relationship also explains how Ore Pulp Flow and Amina Flow are related, as the increase in Amina flow is likely to result in a decrease in silica concentration, which in turn leads to an increase in Ore Pulp Flow.
+
+However, it is important to note that this conclusion is based on data from September 1st and may not be representative of the overall relationship between the variables. 
+
+
+
+
+
+
+
 
 
