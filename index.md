@@ -1,11 +1,15 @@
 ### Analytics Projects
 
 
-
-
 #### [Engineering Analysis with Python](/ManufacturingPlant)
 
+[![image](https://user-images.githubusercontent.com/120342460/215186460-307249ab-36a0-49f8-82e4-b3d22672ce93.png)](/ManufacturingPlant)
+
 #### [Silica Prediction in Iron Ore](/ManufacturingPlant)
+
+It’s not a typical day where I am searching on google for the meaning of froth flotation.
+
+I was surprised to learn about the process of mineral separation through a process called froth flotation. It is satisfying and intriguing to see how this method is used to separate minerals.
 
 ---
 
