@@ -60,7 +60,7 @@ Heatmap to illustrate correlation between each column
 
 ![image](https://user-images.githubusercontent.com/120342460/215182349-1570323f-2545-4fbd-a19a-ebb8ea49f125.png)
 
-heatmap
+<img src="images/df10.png?raw=true"/>
 
 Create a variable that is a list of all the important columns we want to focus on
 
