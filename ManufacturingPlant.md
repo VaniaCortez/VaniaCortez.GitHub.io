@@ -25,6 +25,9 @@ To conduct this data analysis, I used a browser-based Python called Deepnote.
 
 <img src="images/installingpandas.png?raw=true"/>
 
+![image](https://user-images.githubusercontent.com/120342460/215172149-050f56c1-62f4-428b-8794-a57ef0b49669.png)
+
+
 ### Importing the dataset
 converting the commas to decimal
 
