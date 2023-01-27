@@ -11,7 +11,7 @@ The process is named froth flotation because it relies on the formation of a fro
 ## The Data
 
 This dataset is from March 2017 – September 2017.
-Click [**here**](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download) to obtain the dataset. 
+Click [here](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download) to obtain the dataset. 
 
 The purpose of this project is to predict the % Silica concentrate.  
 
@@ -91,6 +91,7 @@ Create line charts for all important columns
 <img src="images/df20.png?raw=true"/>
 
 Iron Concentrate increases between 4 AM – 6 AM and 7 PM – 9 PM. 
+
 Silica Concentrate decreases between 12 AM – 6 AM and 8 PM – 10 PM. 
 
 It appears that as the **concentration of Iron increases, the concentration of Silica decreases**. 
