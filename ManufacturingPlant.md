@@ -103,7 +103,7 @@ This relationship also explains how Ore Pulp Flow and Amina Flow are related, as
 
 However, it is important to note that this conclusion is based on data from September 1st and may not be representative of the overall relationship between the variables. 
 
-
+If you enjoyed this blog, please feel free to connect with me on [Linkedin]!(https://www.linkedin.com/in/vaniacortez/) 
 
 
 
