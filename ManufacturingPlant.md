@@ -25,6 +25,14 @@ To conduct this data analysis, I used a browser-based Python called Deepnote.
 
 <img src="images/installingpandas.png?raw=true"/>
 
+### Importing the dataset and converting the commas to decimal
 
+<img src="images/df1.png?raw=true"/>
+
+Show the first 5 rows of the data and all the columns
+
+<img src="images/df2.png?raw=true"/>
+
+### Basic Analysis of Dataset
 
 
