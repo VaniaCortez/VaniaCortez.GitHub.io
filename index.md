@@ -3,11 +3,13 @@
 
 
 
-#### [Engineering Analysis](/ManufacturingPlant)
+#### [Engineering Analysis with Python](/ManufacturingPlant)
+
+#### [Silica Prediction in Iron Ore](/ManufacturingPlant)
 
 ---
 
-#### [Financial Analysis](/WorldBankIDA)
+#### [Financial Analysis with SQL](/WorldBankIDA)
 [<img src="images/World Bank.png?raw=true"/>](/WorldBankIDA)
 
 #### [World Bank - IDA Data Analysis](/WorldBankIDA)
@@ -18,7 +20,7 @@ They focus on boosting economic growth by building schools, hospitals, creating 
  
 ---
 
-#### [Education Analysis](/Massachusetts_Education) 
+#### [Education Analysis with Tableau](/Massachusetts_Education) 
 [<img src="images/MA_Cover.png?raw=true"/>](/Massachusetts_Education)
 
 #### [The Health of Massachusetts Education System](/Massachusetts_Education)
@@ -29,7 +31,7 @@ In this article, I dove deep into the the health of the school system in the sta
 
 ---
 
-#### [Marketing Analysis](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
+#### [Marketing Analysis with Excel](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
 [<img src="images/DoorDash.png?raw=true"/>](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
 
 #### [What popular beverage are consumers spending the most on?](https://www.linkedin.com/pulse/what-popular-beverage-consumers-spending-most-vania-cortez/)
