@@ -1,4 +1,4 @@
-# Silica Concentrate Prediction in Iron Ore
+# Silica Prediction in Iron Ore
 
 It’s not a typical day where I am searching on google for the meaning of froth flotation. 
 
