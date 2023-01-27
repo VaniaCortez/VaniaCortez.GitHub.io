@@ -25,13 +25,14 @@ To conduct this data analysis, I used a browser-based Python called Deepnote.
 
 <img src="images/installingpandas.png?raw=true"/>
 
-![image](https://user-images.githubusercontent.com/120342460/215172149-050f56c1-62f4-428b-8794-a57ef0b49669.png)
-
+![image](https://user-images.githubusercontent.com/120342460/215173547-d03e27a4-2b9f-43b6-a910-6be32103a4ad.png)
 
 ### Importing the dataset
 converting the commas to decimal
 
 <img src="images/df1.png?raw=true"/>
+
+![image](https://user-images.githubusercontent.com/120342460/215173740-1bb24719-2666-482a-8549-5790426bddad.png)
 
 Show the first 5 rows of the data and all columns
 
