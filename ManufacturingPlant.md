@@ -21,7 +21,7 @@ In this analysis, we can estimate the concentration of silica in iron ore, thus 
 
 To conduct this data analysis, I used a browser based Python called Deepnote. 
 
-## Importing the libraries
+### Importing the libraries
 
 
 
