@@ -19,7 +19,7 @@ Silica is considered a gangue mineral, meaning that it is a mineral that is unwa
 
 In this analysis, we can estimate the concentration of silica in iron ore, thus reducing the amount of time and resources needed for the detection process during iron ore processing.
 
-To conduct this data analysis, I used a browser based Python called Deepnote. 
+To conduct this data analysis, I used a browser-based Python called Deepnote. 
 
 ### Importing the libraries
 
