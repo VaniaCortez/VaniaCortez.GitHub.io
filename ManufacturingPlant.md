@@ -30,7 +30,7 @@ converting the commas to decimal
 
 ![image](https://user-images.githubusercontent.com/120342460/215173740-1bb24719-2666-482a-8549-5790426bddad.png)
 
-Show the first 5 rows of the data and all columns
+Show the first 5 rows of the data and all columns.
 
 <img src="images/df2.png?raw=true"/>
 
@@ -42,41 +42,41 @@ The dataset has 737,453 rows and 24 columns.
 
 <img src="images/df4.png?raw=true"/>
 
-We can see that the date column is being read as a string
+We can see that the date column is being read as a string.
 
 <img src="images/df5.png?raw=true"/>
 
-Using Pandas function called *to_datetime()*, to convert the date to datetime
+Using Pandas function called *to_datetime()*, to convert the date to datetime.
 
 ![image](https://user-images.githubusercontent.com/120342460/215181974-c70862f5-375e-4edb-9be4-2bef05572002.png)
 
-Filter the rows and create a new data frame called df_sept to only show 9/1/2017
+Filter the rows and create a new data frame called df_sept to only show 9/1/2017.
 
 ![image](https://user-images.githubusercontent.com/120342460/215182197-29c7c4aa-9383-4d9c-96d3-faec32be0a02.png)
 
 <img src="images/df8.png?raw=true"/>
 
-Heatmap to illustrate correlation between each column
+Heatmap to illustrate correlation between each column.
 
 ![image](https://user-images.githubusercontent.com/120342460/215182349-1570323f-2545-4fbd-a19a-ebb8ea49f125.png)
 
 <img src="images/df10.png?raw=true"/>
 
-Create a variable that is a list of all the important columns we want to focus on
+Create a variable that is a list of all the important columns we want to focus on.
 
 ![image](https://user-images.githubusercontent.com/120342460/215182509-365852f5-cc82-4f05-9b6d-fae7b93ca82b.png)
 
 <img src="images/df12.png?raw=true"/>
 
-Focusing on the correlation between important columns only
+Focusing on the correlation between important columns only.
 
 <img src="images/df13.png?raw=true"/>
 
-Taking a closer look at the % iron concentrate by the hour to see if there are any trends
+Taking a closer look at the % iron concentrate by the hour to see if there are any trends.
 
 <img src="images/df14.png?raw=true"/>
 
-Create line charts for all important columns 
+Create line charts for all important columns.
 
 ![image](https://user-images.githubusercontent.com/120342460/215183924-723e5c5b-42ca-4e49-94b7-ed0a9783c8c1.png)
 
