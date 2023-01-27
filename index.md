@@ -3,7 +3,7 @@
 
 #### [Engineering Analysis with Python](/ManufacturingPlant)
 
-[<img src="images/SilicaPredictioninIronOre.png?raw=true"/>](/ManufacturingPlant)
+[<img src="images/Silica.png?raw=true"/>](/ManufacturingPlant)
 
 #### [Silica Prediction in Iron Ore](/ManufacturingPlant)
 
