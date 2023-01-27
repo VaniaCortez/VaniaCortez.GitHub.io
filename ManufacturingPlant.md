@@ -11,7 +11,7 @@ The process is named froth flotation because it relies on the formation of a fro
 ## The Data
 
 This dataset is from March 2017 – September 2017.
-Click [here](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download) to obtain the dataset. 
+Click [**here**](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download) to obtain the dataset. 
 
 The purpose of this project is to predict the % Silica concentrate.  
 
@@ -25,9 +25,6 @@ To conduct this data analysis, I used a browser-based Python called Deepnote.
 
 <img src="images/installingpandas.png?raw=true"/>
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
 
 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
