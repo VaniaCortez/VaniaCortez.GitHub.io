@@ -48,17 +48,21 @@ We can see that the date column is being read as a string
 
 Using Pandas function called *to_datetime()*, to convert the date to datetime
 
-<img src="images/df6.png?raw=true"/>
+![image](https://user-images.githubusercontent.com/120342460/215181974-c70862f5-375e-4edb-9be4-2bef05572002.png)
 
 Filter the rows and create a new data frame called df_sept to only show 9/1/2017
 
-<img src="images/df7.png?raw=true"/>
+![image](https://user-images.githubusercontent.com/120342460/215182197-29c7c4aa-9383-4d9c-96d3-faec32be0a02.png)
 
 <img src="images/df8.png?raw=true"/>
 
 Heatmap to illustrate correlation between each column
 
-<img src="images/df9.png?raw=true"/>
+![image](https://user-images.githubusercontent.com/120342460/215182349-1570323f-2545-4fbd-a19a-ebb8ea49f125.png)
+
+heatmap
+
+![image](https://user-images.githubusercontent.com/120342460/215182509-365852f5-cc82-4f05-9b6d-fae7b93ca82b.png)
 
 <img src="images/df10.png?raw=true"/>
 
