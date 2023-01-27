@@ -32,6 +32,8 @@ converting the commas to decimal
 
 Show the first 5 rows of the data and all columns
 
+![image](https://user-images.githubusercontent.com/120342460/215178717-afdda17f-0f0a-45c4-ba08-dc4f8e5fa4ac.png)
+
 <img src="images/df2.png?raw=true"/>
 
 ### Basic Analysis of Dataset
