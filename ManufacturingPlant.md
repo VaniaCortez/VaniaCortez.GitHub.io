@@ -66,8 +66,6 @@ Create a variable that is a list of all the important columns we want to focus o
 
 ![image](https://user-images.githubusercontent.com/120342460/215182509-365852f5-cc82-4f05-9b6d-fae7b93ca82b.png)
 
-<img src="images/df11.png?raw=true"/>
-
 <img src="images/df12.png?raw=true"/>
 
 Focusing on the correlation between important columns only
