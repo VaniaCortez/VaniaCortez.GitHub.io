@@ -78,7 +78,7 @@ Taking a closer look at the % iron concentrate by the hour to see if there are a
 
 Create line charts for all important columns 
 
-<img src="images/df15.png?raw=true"/>
+![image](https://user-images.githubusercontent.com/120342460/215183924-723e5c5b-42ca-4e49-94b7-ed0a9783c8c1.png)
 
 <img src="images/df16.png?raw=true"/>
 
