@@ -23,6 +23,8 @@ To conduct this data analysis, I used a browser-based Python called Deepnote.
 
 ### Importing the libraries
 
+<img src="images/installingpandas.png?raw=true"/>
+
 ![image](https://user-images.githubusercontent.com/120342460/215173547-d03e27a4-2b9f-43b6-a910-6be32103a4ad.png)
 
 ### Importing the dataset
