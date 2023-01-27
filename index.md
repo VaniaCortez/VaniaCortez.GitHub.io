@@ -1,7 +1,7 @@
 ### Analytics Projects
 
 
-#### [Engineering Analysis with Python](/ManufacturingPlant)
+#### [Manufacturing Analysis with Python](/ManufacturingPlant)
 
 [<img src="images/Silica.png?raw=true"/>](/ManufacturingPlant)
 
