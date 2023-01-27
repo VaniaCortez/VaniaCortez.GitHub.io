@@ -13,6 +13,15 @@ The process is named froth flotation because it relies on the formation of a fro
 This dataset is from March 2017 – September 2017.
 Click [here](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download) to obtain the dataset. 
 
+The purpose of this project is to predict the % Silica concentrate.  
+
+Silica is considered a gangue mineral, meaning that it is a mineral that is unwanted and not valuable. In iron ore flotation, silica is often present in the ore and can be separated from the valuable iron minerals using various reagents such as Amina. 
+
+In this analysis, we can estimate the concentration of silica in iron ore, thus reducing the amount of time and resources needed for the detection process during iron ore processing.
+
+To conduct this data analysis, I used a browser based Python called Deepnote. 
+
+## Importing the libraries
 
 
 
