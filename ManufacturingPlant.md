@@ -11,8 +11,7 @@ The process is named froth flotation because it relies on the formation of a fro
 ## The Data
 
 This dataset is from March 2017 – September 2017.
-Click here(https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download)to obtain the dataset. 
-![image](https://user-images.githubusercontent.com/120342460/215151336-8b62b5bf-60c0-4527-a9df-fa634ee07752.png)
+The dataset was obtained through this [link](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download)
 
 
 
