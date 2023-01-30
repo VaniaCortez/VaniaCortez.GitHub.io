@@ -6,6 +6,11 @@
 
 ---
 
+#### [Sports Analysis with Tableau](/)
+[<img src="images/.png?raw=true"/>](/ManufacturingPlant)
+
+---
+
 #### [Financial Analysis with SQL](/WorldBankIDA)
 [<img src="images/World Bank.png?raw=true"/>](/WorldBankIDA)
  
