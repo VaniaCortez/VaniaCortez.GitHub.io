@@ -6,8 +6,8 @@
 
 ---
 
-#### [Sports Analysis with Tableau](/)
-[<img src="images/.png?raw=true"/>](/ManufacturingPlant)
+#### [Sports Analysis with Tableau](/21-22NBA)
+[<img src="images/21-22NBA.png?raw=true"/>](/ManufacturingPlant)
 
 ---
 
