@@ -32,7 +32,10 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 ![image](https://user-images.githubusercontent.com/120342460/216172738-3038a6cd-f385-4292-ba79-a339fdf9470f.png)
 
 
-4. 
+3. What is the average lab procedures performed by race?
+
+![image](https://user-images.githubusercontent.com/120342460/216175463-2f684ca8-7d02-4188-88af-0afd923b42c3.png)
+
 
 
 ## Closing Remarks
