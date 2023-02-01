@@ -13,13 +13,21 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 ## Insights
 
+1.
 
+2.
+
+3. A large number of patients (> 5000) are spending fewer than 7 days in the hospital. 
+
+4. 
 
 ## The Analysis
 
 1.
 
+
 2.
+
 
 3.	What is the distribution of time spent in the hospital?
 
@@ -27,8 +35,10 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 
 
+4. 
 
 
+## Closing Remarks
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
