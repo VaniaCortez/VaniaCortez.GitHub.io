@@ -13,26 +13,23 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 ## Insights
 
-1.
+1. A large number of patients (> 5000) are spending 7 days or less in the hospital. 
 
-2.
+2. 
 
-3. A large number of patients (> 5000) are spending 7 days or less in the hospital. 
+3. 
 
 4. 
 
 ## The Analysis
 
-1.
-
-
-2.
-
-
-3.	What is the distribution of time spent in the hospital?
+1. What is the distribution of time spent in the hospital?
 
 ![image](https://user-images.githubusercontent.com/120342460/216101986-28e52e55-9624-435b-804b-d2caeac23827.png)
 
+2. Which medical specialties have the highest average number of procedures performed?
+
+![image](https://user-images.githubusercontent.com/120342460/216138965-267ecec2-f26b-4bde-aa3d-8542cdee1f4a.png)
 
 
 4. 
