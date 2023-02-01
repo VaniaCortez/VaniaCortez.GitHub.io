@@ -17,7 +17,7 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 2.
 
-3. A large number of patients (> 5000) are spending fewer than 7 days in the hospital. 
+3. A large number of patients (> 5000) are spending 7 days or less in the hospital. 
 
 4. 
 
