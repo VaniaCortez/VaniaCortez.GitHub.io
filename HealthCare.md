@@ -29,7 +29,7 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 2. Which medical specialties have the highest average number of procedures performed?
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/120342460/216172103-bd5ee64c-3891-46be-8481-915673d21ac8.png">
+![image](https://user-images.githubusercontent.com/120342460/216172738-3038a6cd-f385-4292-ba79-a339fdf9470f.png)
 
 
 4. 
