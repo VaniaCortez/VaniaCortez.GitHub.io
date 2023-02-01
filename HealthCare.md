@@ -3,19 +3,19 @@
 Intro
 
 
-The Data
+## The Data
 
 The dataset represents 10 years (1999 – 2008) of clinical care for 130 Hospitals in the US. 
  
-The dataset can be found (here)[https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/data?select=diabetic_data.csv]
+The dataset can be found [here.](https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/data?select=diabetic_data.csv)
 
 The purpose of this project is to provide any helpful insight as a Data Analyst at a hospital. 
 
-**Insights**
+## Insights
 
 
 
-**The Analysis**
+## The Analysis
 
 1.
 
