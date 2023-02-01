@@ -31,7 +31,7 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 3.	What is the distribution of time spent in the hospital?
 
-![image](https://user-images.githubusercontent.com/120342460/215914457-a267d838-0706-4b76-8c8c-2fc7b74cc2bd.png)
+![image](https://user-images.githubusercontent.com/120342460/216101986-28e52e55-9624-435b-804b-d2caeac23827.png)
 
 
 
