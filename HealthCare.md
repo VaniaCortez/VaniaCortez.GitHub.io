@@ -36,6 +36,9 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 ![image](https://user-images.githubusercontent.com/120342460/216175463-2f684ca8-7d02-4188-88af-0afd923b42c3.png)
 
+4.	What is the relationship between the number of lab procedures and the time spent at the hospital?
+
+![image](https://user-images.githubusercontent.com/120342460/216785393-2bf48889-1378-431a-92fc-15eaf20eb5b4.png)
 
 
 ## Closing Remarks
