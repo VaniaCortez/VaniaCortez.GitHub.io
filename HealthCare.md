@@ -48,7 +48,7 @@ According to the data, the three medical specialties with the highest number of 
 
 <img src="images/num_procedures.health.png?raw=true"/>
 
-**3.	What is the average number of laboratory procedures performed among different races?
+**3.	What is the average number of laboratory procedures performed among different races?**
 
 In order to determine the average number of laboratory procedures performed by race, we need to utilize the JOIN clause to combine data from two separate tables within the database. The health table holds the health information for each patient, while the demographics table includes information such as race, gender, and age for each patient.
 
@@ -58,7 +58,7 @@ As we can see, hospitals are carrying out similar amount of laboratory tests for
 
 <img src="images/lab_procedures.health.png?raw=true"/>
 
-*4.	What is the relationship between the number of lab procedures and time spent at the hospital?
+*4.	What is the relationship between the number of lab procedures and time spent at the hospital?*
 
 To better understand the number of lab procedures, we need to determine the MIN, AVG, and MAX.
 
