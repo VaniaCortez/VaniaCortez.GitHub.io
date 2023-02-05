@@ -1,6 +1,6 @@
 ### Analytics Projects
 
-#### [HealthCare Analytics with SQL](/healthcare.md)
+#### [HealthCare Analytics with SQL](/HealthCare.md)
 
 
 ---
