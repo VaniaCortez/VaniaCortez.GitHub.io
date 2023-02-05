@@ -1,7 +1,10 @@
 # Insights on 130 US Hospitals
 
-Intro
+Did you know that the first hospital in the US was established in 1751? It was called the Pennsylvania Hospital and was founded in Philadelphia by Benjamin Franklin and Dr. Thomas Bond. The founders created this hospital to serve all people. It was the first hospital in the colonies and set the standard for modern American hospitals. 
 
+Today, there are thousands of hospitals in the US, serving millions of patients each year and playing a critical role in keeping communities healthy and strong.
+
+In this article, we'll be exploring the world of hospitals and how they operate. From the laboratory tests they perform to the way they treat different ethnicities. We'll take a look at what hospitals are doing right and what areas may need improvement.
 
 ## The Data
 
@@ -13,19 +16,29 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 ## Insights
 
-1. A large number of patients (> 5000) are spending 7 days or less in the hospital. 
+1.	Majority of patients (> 5000) are staying in the hospitals on average 7 days or less. 
 
-2. 
+2.	The top 3 medical specialties performing the most procedures are Obstetrics, Thoracic surgery, and Proctology. 
 
-3. 
+3.	Hospitals are conducting similar amounts of laboratory tests for multiple race groups.
 
-4. 
+4.	The more lab procedures a patient undergoes, the more days they spent at the hospital.
+
+5.	Two patients underwent more than 90 lab procedures, and neither was readmitted or had diabetes.
 
 ## The Analysis
 
-1. What is the distribution of time spent in the hospital?
+1.	What is the allocation of hospital stays in terms of time?
+
+With the use of a histogram to represent the data, we can categorize patients based on the duration of their hospital stay.
 
 ![image](https://user-images.githubusercontent.com/120342460/216101986-28e52e55-9624-435b-804b-d2caeac23827.png)
+
+According to the histogram, it appears that the majority of patients, around 5000 or more, have hospital stays of 7 days or less. This could be seen as positive as it allows for a higher turnover rate and accommodates more patients seeking treatment.
+
+<img src="images/histogram.health.png?raw=true"/>
+
+![alt text](histogram.health.png)
 
 2. Which medical specialties have the highest average number of procedures performed?
 
@@ -54,5 +67,5 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 ## Closing Remarks
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
