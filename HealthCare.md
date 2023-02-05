@@ -28,7 +28,7 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 ## The Analysis
 
-### 1.	What is the allocation of hospital stays in terms of time?
+#### 1.	What is the allocation of hospital stays in terms of time?
 
 With the use of a histogram to represent the data, we can categorize patients based on the duration of their hospital stay.
 
@@ -48,7 +48,7 @@ According to the data, the three medical specialties with the highest number of 
 
 <img src="images/num_procedures.health.png?raw=true"/>
 
-**3.	What is the average number of laboratory procedures performed among different races?**
+#### 3.	What is the average number of laboratory procedures performed among different races?
 
 In order to determine the average number of laboratory procedures performed by race, we need to utilize the JOIN clause to combine data from two separate tables within the database. The health table holds the health information for each patient, while the demographics table includes information such as race, gender, and age for each patient.
 
@@ -58,22 +58,22 @@ As we can see, hospitals are carrying out similar amount of laboratory tests for
 
 <img src="images/lab_procedures.health.png?raw=true"/>
 
-*4.	What is the relationship between the number of lab procedures and time spent at the hospital?*
+#### 4.	What is the relationship between the number of lab procedures and time spent at the hospital?
 
 To better understand the number of lab procedures, we need to determine the MIN, AVG, and MAX.
 
 ![image](https://user-images.githubusercontent.com/120342460/216786303-e1b8197c-be9a-4e7a-b74a-b03dd15669ff.png)
 
-MIN: 1
-AVG: 43
-MAX: 99 
+MIN = 1
+AVG = 43
+MAX = 99 
 
 To answer this question, we used the CASE WHEN syntax. 
 In the query below, we categorized the number of lab procedures by few, average, and Many. 
 
-Few: 0 – 24 lab procedures
-Average: 25 - 54 lab procedures
-Many: 55 or more lab procedures
+Few = 0 – 24 lab procedures
+Average = 25 - 54 lab procedures
+Many = 55 or more lab procedures
 
 ![image](https://user-images.githubusercontent.com/120342460/216785860-3cc318ed-beb3-4b02-b325-bf87863e2cb7.png)
 
@@ -83,7 +83,7 @@ Patients who have less than 25 procedures tend to stay on average 3 days at the 
 
 <img src="images/hospitaldays.health.png?raw=true"/>
 
-5.	Summary of top 20 patients who have received the highest number of medications and undergone the most lab procedures.
+#### 5.	Summary of top 20 patients who have received the highest number of medications and undergone the most lab procedures.
 
 The CONCAT syntax allows us to merge certain data and present a summary for each patient. This query enables us to view the patient's race group, readmission status, number of medications, lab procedures, and whether they’re diabetic or not. 
 
