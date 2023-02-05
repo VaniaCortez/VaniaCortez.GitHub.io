@@ -28,7 +28,7 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 ## The Analysis
 
-1.	What is the allocation of hospital stays in terms of time?
+### 1.	What is the allocation of hospital stays in terms of time?
 
 With the use of a histogram to represent the data, we can categorize patients based on the duration of their hospital stay.
 
@@ -38,7 +38,7 @@ According to the histogram, it appears that the majority of patients, around 500
 
 <img src="images/histogram.health.png?raw=true"/>
 
-2.	Which medical fields have the greatest average number of procedures performed?
+#### 2.	Which medical fields have the greatest average number of procedures performed?
 
 It is worth mentioning that in order to find the medical specialties with the highest average number of procedures performed, it is necessary to use aggregate functions such as the average. The use of the HAVING clause allows for filtering by this average, in this case by selecting a value greater than 2 procedures.
 
@@ -48,7 +48,7 @@ According to the data, the three medical specialties with the highest number of 
 
 <img src="images/num_procedures.health.png?raw=true"/>
 
-3.	What is the average number of laboratory procedures performed among different races?
+**3.	What is the average number of laboratory procedures performed among different races?
 
 In order to determine the average number of laboratory procedures performed by race, we need to utilize the JOIN clause to combine data from two separate tables within the database. The health table holds the health information for each patient, while the demographics table includes information such as race, gender, and age for each patient.
 
@@ -58,7 +58,7 @@ As we can see, hospitals are carrying out similar amount of laboratory tests for
 
 <img src="images/lab_procedures.health.png?raw=true"/>
 
-4.	What is the relationship between the number of lab procedures and time spent at the hospital?
+*4.	What is the relationship between the number of lab procedures and time spent at the hospital?
 
 To better understand the number of lab procedures, we need to determine the MIN, AVG, and MAX.
 
