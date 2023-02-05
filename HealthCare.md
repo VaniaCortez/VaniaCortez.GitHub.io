@@ -44,7 +44,10 @@ The purpose of this project is to provide any helpful insight as a Data Analyst 
 
 5.	Summary of top 20 patients who have received the highest number of medications and undergone the most lab procedures.
 
-![image](https://user-images.githubusercontent.com/120342460/216840149-5b31c06b-584b-4c69-9a70-ac20ef1b80df.png)
+![image](https://user-images.githubusercontent.com/120342460/216841711-45a5381e-83b7-4fb0-a0f4-0e2888469222.png)
+
+![image](https://user-images.githubusercontent.com/120342460/216841719-860c95ec-10e2-4b85-9f3c-2929aed673ef.png)
+
 
 
 
