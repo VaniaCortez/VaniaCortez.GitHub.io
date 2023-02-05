@@ -1,4 +1,4 @@
-# Insights on 130 US Hospitals
+# Hospital Data Analysis
 
 Did you know that the first hospital in the US was established in 1751? It was called the Pennsylvania Hospital and was founded in Philadelphia by Benjamin Franklin and Dr. Thomas Bond. The founders created this hospital to serve all people. It was the first hospital in the colonies and set the standard for modern American hospitals. 
 
