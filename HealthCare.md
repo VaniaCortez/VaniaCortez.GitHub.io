@@ -64,16 +64,16 @@ To better understand the number of lab procedures, we need to determine the MIN,
 
 ![image](https://user-images.githubusercontent.com/120342460/216786303-e1b8197c-be9a-4e7a-b74a-b03dd15669ff.png)
 
-MIN = 1
-AVG = 43
-MAX = 99 
+- MIN = 1
+- AVG = 43
+- MAX = 99 
 
 To answer this question, we used the CASE WHEN syntax. 
 In the query below, we categorized the number of lab procedures by few, average, and Many. 
 
-Few = 0 – 24 lab procedures
-Average = 25 - 54 lab procedures
-Many = 55 or more lab procedures
+- Few = 0 – 24 lab procedures
+- Average = 25 - 54 lab procedures
+- Many = 55 or more lab procedures
 
 ![image](https://user-images.githubusercontent.com/120342460/216785860-3cc318ed-beb3-4b02-b325-bf87863e2cb7.png)
 
