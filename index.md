@@ -1,7 +1,7 @@
 ### Analytics Projects
 
 #### [HealthCare Analytics with SQL](/HealthCare.md)
-
+[<img src="images/HospitalDataAnalysis.png?raw=true"/>](/ManufacturingPlant)
 
 ---
 
