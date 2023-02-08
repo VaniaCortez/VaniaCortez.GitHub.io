@@ -2,7 +2,9 @@ title: Welcome to Vania's Portfolio! # your name (or website title) here
 logo: "/images/smallprofile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  A self-motivated data enthusiast who prides herself on bringing creativity and originality to every project. Her favorite part of working with data is finding new ways to analyze, visualize and present data so that others can easily make sense of it. 
+ <br /> 
  <a href="https://www.linkedin.com/in/vaniacortez/">View My LinkedIn Profile</a> 
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
